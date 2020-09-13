@@ -1,0 +1,6 @@
+plugin:
+    name: 'triangon.profile::lang.plugin.name'
+    description: 'triangon.profile::lang.plugin.description'
+    author: Triangon
+    icon: oc-icon-user
+    homepage: ''
