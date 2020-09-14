@@ -1,0 +1,10 @@
+name: Item
+form: $/triangon/testdata/models/items/fields.yaml
+modelClass: Triangon\Testdata\Models\Items
+defaultRedirect: triangon/testdata/item
+create:
+    redirect: 'triangon/testdata/item/update/:id'
+    redirectClose: triangon/testdata/item
+update:
+    redirect: triangon/testdata/item
+    redirectClose: triangon/testdata/item

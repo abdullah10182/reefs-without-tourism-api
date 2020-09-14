@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table triangon_testdata_item'
+    - builder_table_create_triangon_testdata_item.php
+1.0.3:
+    - 'Updated table triangon_testdata_item'
+    - builder_table_update_triangon_testdata_item.php

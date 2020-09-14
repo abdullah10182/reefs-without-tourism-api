@@ -1,0 +1,11 @@
+plugin:
+    name: 'triangon.testdata::lang.plugin.name'
+    description: 'triangon.testdata::lang.plugin.description'
+    author: Triangon
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Menu Item'
+        url: triangon/testdata/item
+        icon: icon-life-ring
