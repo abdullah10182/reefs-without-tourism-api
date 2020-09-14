@@ -28,6 +28,7 @@ class Plugin extends PluginBase
 
         //allows external sources to fill in values on registration
         $this->extendUserModel();
+        //add additional fields to user form
         $this->extendUserFormFields();
         
 
